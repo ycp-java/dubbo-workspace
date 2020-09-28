@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<script src="js/jquery.min.js"></script>
+<body>
+<table border="1">
+    <tr>
+        <td>学生id</td>
+        <td>学生姓名</td>
+        <td>学生性别</td>
+        <td>操作</td>
+    </tr>
+    <tr th:each="l:${list}">
+        <td th:text="${l.getSid()}"></td>
+        <td th:text="${l.sname}"></td>
+        <td th:if="${l.ssex==1}">男</td>
+        <td th:if="${l.ssex==2}">女</td>
+        <td> <input type="button" value="测试" th:onclick="|dels(${l.sid})|">
+            <input type="button" value="测试2" th:onclick="'dels(\''+${l.sid}+'\',\''${l.sname}'\')'">
+            <a th:href="@{/del(id=${l.sid})}">删除</a>
+        </td>
+    </tr>
+
+</table>
+</body>
+<script>
+function  dels(id,name) {
+    alert(id);
+    alert(name);
+}
+</script>
+</html>
