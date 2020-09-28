@@ -38,6 +38,7 @@ public class Stucontroller {
 @RequestMapping("selectstu")
 
     public String selectstu(Model m){
+    System.out.println(2222);
     List<Student> list=studentservice.selectstu();
     m.addAttribute("list",list);
     return "show";
