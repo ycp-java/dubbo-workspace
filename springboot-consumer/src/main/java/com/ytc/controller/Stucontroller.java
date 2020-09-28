@@ -40,6 +40,9 @@ public class Stucontroller {
     public String selectstu(Model m){
     System.out.println(4444);
     System.out.println(44445);
+    System.out.println(4422);
+
+
     List<Student> list=studentservice.selectstu();
     m.addAttribute("list",list);
     return "show";
