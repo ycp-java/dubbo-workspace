@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7aafa9c6-b427-46f4-be7c-be2f80497184" name="Default Changelist" comment="wewe" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/springbootest/src/main/java/com/ytc/service/impl/StuserviceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/springboot-provider/src/main/java/com/ytc/service/StudentserviceImpl.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1hzFfcS1B0Lxp6azuqt2iCx1sVn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.22774567" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ytc.controller" />
+      <recent name="com.ytc.service" />
+      <recent name="com.ytc.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\kuangjiaidea\dubbo-workspace\springboot-consumer\src\main\resources\static" />
+      <recent name="F:\kuangjiaidea\dubbo-workspace\springboot-consumer\src\main\resources\templates" />
+      <recent name="F:\kuangjiaidea\dubbo-workspace\springboot-consumer\src\main\java\com\ytc" />
+      <recent name="F:\kuangjiaidea\dubbo-workspace\springboot-consumer\src\main\resources" />
+      <recent name="F:\kuangjiaidea\dubbo-workspace\dubbo-api\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootConsumerApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="consumer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="consumer" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ytc.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootConsumer2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-consumer2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ytc.SpringbootConsumer2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ytc.SpringbootConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ytc.SpringbootProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ytc.SpringbootestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDubboApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test-dubbo-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ytc.TestDubboApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_dubbo-workspace" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60441" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aafa9c6-b427-46f4-be7c-be2f80497184" name="Default Changelist" comment="" />
+      <created>1601006117028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601006117028</updated>
+      <workItem from="1601006118319" duration="1244000" />
+      <workItem from="1601008052849" duration="5342000" />
+      <workItem from="1601085152111" duration="2560000" />
+      <workItem from="1601087765996" duration="13802000" />
+      <workItem from="1601187910988" duration="5265000" />
+      <workItem from="1601205360804" duration="1501000" />
+      <workItem from="1601206976446" duration="480000" />
+      <workItem from="1601266886202" duration="5274000" />
+      <workItem from="1601292534107" duration="4650000" />
+    </task>
+    <task id="LOCAL-00001" summary="yyy">
+      <created>1601297936324</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601297936324</updated>
+    </task>
+    <task id="LOCAL-00002" summary="eee">
+      <created>1601298348690</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601298348690</updated>
+    </task>
+    <task id="LOCAL-00003" summary="eee">
+      <created>1601298921504</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601298921504</updated>
+    </task>
+    <task id="LOCAL-00004" summary="wewe">
+      <created>1601299517829</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601299517829</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yyy" />
+    <MESSAGE value="eee" />
+    <MESSAGE value="wewe" />
+    <option name="LAST_COMMIT_MESSAGE" value="wewe" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1601206377763">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1601206377763" />
+    <state x="457" y="249" key="#Tomcat_Server" timestamp="1601006179580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="457" y="249" key="#Tomcat_Server/0.0.1366.728@0.0.1366.728" timestamp="1601006179580" />
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601091739192">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1601091739192" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1601188829016">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601188829016" />
+    <state x="305" y="44" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1601027389502">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="305" y="44" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1601027389502" />
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601189376782">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1601189376782" />
+    <state x="508" y="111" key="FileChooserDialogImpl" timestamp="1601297014895">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="508" y="111" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601297014895" />
+    <state x="530" y="266" key="Github.ShareDialog" timestamp="1601299592857">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="530" y="266" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1601299592857" />
+    <state width="928" height="292" key="GridCell.Tab.0.bottom" timestamp="1601277997577">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="928" height="292" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601277997577" />
+    <state width="928" height="292" key="GridCell.Tab.0.center" timestamp="1601277997577">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="928" height="292" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601277997577" />
+    <state width="928" height="292" key="GridCell.Tab.0.left" timestamp="1601277997577">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="928" height="292" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601277997577" />
+    <state width="928" height="292" key="GridCell.Tab.0.right" timestamp="1601277997577">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="928" height="292" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601277997577" />
+    <state width="928" height="292" key="GridCell.Tab.1.bottom" timestamp="1601277997578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="928" height="292" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601277997578" />
+    <state width="928" height="292" key="GridCell.Tab.1.center" timestamp="1601277997578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="928" height="292" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1601277997578" />
+    <state width="928" height="292" key="GridCell.Tab.1.left" timestamp="1601277997578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="928" height="292" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1601277997578" />
+    <state width="928" height="292" key="GridCell.Tab.1.right" timestamp="1601277997578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="928" height="292" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1601277997578" />
+    <state width="928" height="292" key="GridCell.Tab.2.bottom" timestamp="1601276901634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="928" height="292" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601276901634" />
+    <state width="928" height="292" key="GridCell.Tab.2.center" timestamp="1601276901634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="928" height="292" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1601276901634" />
+    <state width="928" height="292" key="GridCell.Tab.2.left" timestamp="1601276901634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="928" height="292" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1601276901634" />
+    <state width="928" height="292" key="GridCell.Tab.2.right" timestamp="1601276901634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="928" height="292" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1601276901634" />
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog" timestamp="1601090026571">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1601090026571" />
+    <state x="49" y="20" width="1218" height="708" key="SettingsEditor" timestamp="1601299434552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="49" y="20" width="1218" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601299434552" />
+    <state x="275" y="87" key="Vcs.Push.Dialog.v2" timestamp="1601299544408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="87" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601299544408" />
+    <state x="115" y="0" key="new project wizard" timestamp="1601276143391">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1601276143391" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601088025702">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601088025702" />
+  </component>
+</project>
